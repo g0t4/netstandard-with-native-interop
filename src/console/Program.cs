@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace netstandardnativeinterop
+namespace console
 {
     class Program
     {
